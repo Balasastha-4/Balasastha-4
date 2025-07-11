@@ -1,14 +1,14 @@
 
 ---
-<h1 align="center">Hi 👋, I'm Bala Sastha</h1>
-<p align="center"></p>
+<h1 align="center">Hi 👋, I'm BalaSastha</h1>
+<p align="center">🎓 Final Year B.Tech IT Student at K.S. Rangasamy College of Technology</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing B.Tech in Information Technology  
-- 🌱 Learning and exploring UI/UX design, JavaScript, React, and design tools  
+- 🌱 Learning and exploring UI/UX design, JavaScript, and design tools  
 - 🔧 Currently working on real-world projects involving web and mobile design  
 - 🤝 Looking to collaborate on front-end and design-focused projects  
 - 🛠️ I believe in clean design, clean code, and continuous learning  
