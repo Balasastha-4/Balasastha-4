@@ -1,27 +1,7 @@
-## 🎮 Play My Snake Game!
-[Click here to play the game!](https://yourusername.github.io/snake-game-repository)
 
 ---
 <h1 align="center">Hi 👋, I'm Bala Sastha</h1>
-<p align="center">
-  <span id="typing-text"></span>
-</p>
-
-<script>
-  const text = "I’m a learner. I’m a dreamer. I build with code and creativity!";
-  let i = 0;
-  const speed = 150;
-  
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-  
-  typeWriter();
-</script>
+<p align="center"></p>
 
 ---
 
